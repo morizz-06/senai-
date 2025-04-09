@@ -1,8 +1,8 @@
 // código pra criar variavel exebir seu valor
-var nome = "Paulo Roberto"
+var nome = "Felipe ferreira"
  console.log(nome)
 
- var idade = 18
+ var idade = 32
  console.log(idade)
 
 
