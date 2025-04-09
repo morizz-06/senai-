@@ -1,8 +1,8 @@
 // código pra criar variavel exebir seu valor
-var nome = "Felipe ferreira"
+var nome = "Paulo Roberto"
  console.log(nome)
 
- var idade = 32
+ var idade = 18
  console.log(idade)
 
 
@@ -10,7 +10,9 @@ var nome = "Felipe ferreira"
 
 numero1 = 22
 numero2 = 22
-console.log(numero1 + numero2)
+numero3 = "22"
+
+console.log(numero1 + numero3 + numero2)
 
 
 //código criando quatro variaveis e somando os quatro valores 

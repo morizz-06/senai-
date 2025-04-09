@@ -55,4 +55,4 @@ console.log(typeof vazio )
 
 var altura = 1.65;                    // number
 console.log(typeof altura )
-   
+       
