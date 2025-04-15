@@ -1,0 +1,5 @@
+console.log("Era uma vez um programador")
+console.log("ele aprendeu javascript")
+console.log("E se arrependeu amarmagente")
+console.log("FIM")
+console.log("FIM nada")
